@@ -1,6 +1,6 @@
 
 function getSecret() {
-    return "U2FsdGVkX19AKdhqrLYhDUZw/DmOXtbLnjU83sJiqjyqg7Xm69PHMSYdHfUJQ6jdZ5WT6jQg0jXGEhpVW69mIA==" //Encrypted with AES
+   return "U2FsdGVkX19AKdhqrLYhDUZw/DmOXtbLnjU83sJiqjyqg7Xm69PHMSYdHfUJQ6jdZ5WT6jQg0jXGEhpVW69mIA==" //Encrypted with AES
 }
 
 function getResource() {
